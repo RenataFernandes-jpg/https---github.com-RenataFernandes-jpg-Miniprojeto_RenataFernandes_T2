@@ -11,7 +11,7 @@ valores nulos na coluna categoria que usei a função replace para atualizar par
 Linhas duplicadas excluídas
 Conversão de data com o datetime
 
-Estatísticas descritivas básicas para coluna de número de filhos do cliente:
+#### Estatísticas descritivas básicas para coluna de número de filhos do cliente:
 
 |Name: CL_FHL    |dtype: str|
 | ---: | ---: |
@@ -24,9 +24,9 @@ Estatísticas descritivas básicas para coluna de número de filhos do cliente:
 |75%      |      2.00|
 |max      |      4.00|
 
-Perguntas operacionais:
+#### Perguntas operacionais:
 
-Quem compra mais?
+#### Quem compra mais?
 
 Através da análise exploratória identificamos que as mulheres compras mais, conforme mostra o gráfico abaixo:
 
@@ -34,7 +34,7 @@ Através da análise exploratória identificamos que as mulheres compras mais, c
     <img width="382" height="404" alt="Image" src="https://github.com/user-attachments/assets/a9b4a1ac-29d1-4392-b9f4-2f39d5b3e9cc" />
   </div>
   
-Quais categorias vendem mais?
+#### Quais categorias vendem mais?
 
 A categoria alimentos a que mais vende.
 
@@ -42,7 +42,7 @@ A categoria alimentos a que mais vende.
     <img width="890" height="390" alt="Image" src="https://github.com/user-attachments/assets/aa917e29-a9bb-44d0-b51f-a43693c4eaca" />
   </div>
   
-Como variam as vendas ao longo do tempo?
+#### Como variam as vendas ao longo do tempo?
 
 As vendas seguem crescendo de 2019 ate 2021, porém a vendas caem em 2022 e a categoria que mais perdeu receita foi a de alimentos.
 
