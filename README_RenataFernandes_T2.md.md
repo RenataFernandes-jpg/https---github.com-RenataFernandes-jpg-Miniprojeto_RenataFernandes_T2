@@ -11,7 +11,7 @@ valores nulos na coluna categoria que usei a função replace para atualizar par
 Linhas duplicadas excluídas
 Conversão de data com o datetime
 
-Estatísticas descritivas básicas para coluna de número de filhos do cliente:
+#### Estatísticas descritivas básicas para coluna de número de filhos do cliente:
 
 |Name: CL_FHL    |dtype: str|
 | ---: | ---: |
@@ -24,39 +24,39 @@ Estatísticas descritivas básicas para coluna de número de filhos do cliente:
 |75%      |      2.00|
 |max      |      4.00|
 
-Perguntas operacionais:
+#### Perguntas operacionais:
 
-Quem compra mais?
+#### Quem compra mais?
 
-Através da análise exploratória identificamos que as mulheres compras mais, conforme mostra o gráfico abaixo:
-
-  <div>
-    <img width="382" height="404" alt="Image" src="https://github.com/user-attachments/assets/a9b4a1ac-29d1-4392-b9f4-2f39d5b3e9cc" />
-  </div>
-  
-Quais categorias vendem mais?
-
-A categoria alimentos a que mais vende.
+Através da análise exploratória identificamos que as mulheres compram mais do que os homens, conforme mostra o gráfico abaixo:
 
   <div>
-    <img width="890" height="390" alt="Image" src="https://github.com/user-attachments/assets/aa917e29-a9bb-44d0-b51f-a43693c4eaca" />
+    <img width="382" height="404" alt="Image" src="https://github.com/user-attachments/assets/718a8e24-6def-487e-8a3e-0973b1b92eb3" />
   </div>
   
-Como variam as vendas ao longo do tempo?
+#### Quais categorias vendem mais?
 
-As vendas seguem crescendo de 2019 ate 2021, porém a vendas caem em 2022 e a categoria que mais perdeu receita foi a de alimentos.
+As categorias alimentos, higiene e limpeza são as que mais vendem. 
 
  <div>
-    <img width="590" height="490" alt="Image" src="https://github.com/user-attachments/assets/862ad0ab-3dcb-4449-a9fc-02ec913885bf" />
+    <img width="989" height="490" alt="Image" src="https://github.com/user-attachments/assets/04399749-b4cd-4251-94c8-f219f0f9e9ad" />
+  </div>
+  
+#### Como variam as vendas ao longo do tempo?
+
+A quantidade de produtos vendidos seguem crescendo de 2019 ate 2021, porém a vendas caem em 2022 e a categoria que mais diminuiu nas suas vendas foi a de alimentos.
+
+ <div>
+    <img width="590" height="490" alt="Image" src="https://github.com/user-attachments/assets/68e339d9-b9d6-417f-9a26-c1bf23292e7a" />
   </div>
 
 | Categoria | 2019 | 2020 |2021 |2022 |
 | :--- | :---: | ---: | ---: | ---: |
-| ACESSORIOS | R$ 0.29M |  R$ 0.32M |  R$ 0.35M | R$ 0.25M|
-| ALIMENTOS  | R$ 9.69M | R$ 10.65M | R$ 11.98M | R$ 8.13M|
-| BEBIDAS    | R$ 1.00M |  R$ 1.12M |  R$ 1.23M | R$ 0.84M|
-| HIGIENE    | R$ 4.13M |  R$ 4.51M |  R$ 5.07M | R$ 3.44M|
-| LIMPEZA    | R$ 4.18M |  R$ 4.56M |  R$ 5.10M | R$ 3.49M|
-| OUTROS     | R$ 0.08M |  R$ 0.09M |  R$ 0.10M | R$ 0.07M|
-| PET        | R$ 0.89M |  R$ 0.98M |  R$ 1.10M | R$ 0.75M|
+| ACESSORIOS | 3K | 3K  |  3K |   4K|
+| ALIMENTOS  |92K | 101K| 114K|  77K|
+| BEBIDAS    | 9K | 10K |  11K|   8K|
+| HIGIENE    | 33K| 36K |  41K|  28K|
+| LIMPEZA    | 31K|  34K|  38K|  26K|
+| OUTROS     | 1K |   1K|   1K|   1K|
+| PET        | 7K |   8K|   8K|   6K|
 
