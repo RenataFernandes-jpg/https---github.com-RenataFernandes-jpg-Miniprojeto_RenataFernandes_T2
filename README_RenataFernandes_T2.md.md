@@ -54,7 +54,7 @@ Através da análise exploratória identificamos que as mulheres são responsáv
 Cerca de 64% da base esta concentrado no segmento B
 
   <div>
-    <<img width="382" height="404" alt="Image" src="https://github.com/user-attachments/assets/d6a1fd79-7047-446a-b925-e32034e1160b" />
+    <img width="382" height="404" alt="Image" src="https://github.com/user-attachments/assets/d6a1fd79-7047-446a-b925-e32034e1160b" />
   </div>
 
   
